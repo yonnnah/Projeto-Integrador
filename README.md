@@ -4,6 +4,11 @@ Fluxos
 
 [Fluxo Aluno / Fluxo Professor](https://www.figma.com/proto/S0VCrBGxopMkgTaid0Mg1P/Untitled?type=design&node-id=1-450&t=BvryePZ4eaEDBPiy-8&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A450&hide-ui=1)
 
+[Fluxo Funcionários ](https://www.figma.com/proto/S0VCrBGxopMkgTaid0Mg1P/Untitled?type=design&node-id=1-92&t=gHedtwp1mcoKLWmO-8&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A450&hide-ui=1)
+
+[Fluxo Fornecedores ](https://www.figma.com/proto/S0VCrBGxopMkgTaid0Mg1P/Untitled?node-id=1-228&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A450&hide-ui=1&t=JWWAXJRc0J6g4sfj-8)
+
+[Fluxo Empresas](https://www.figma.com/proto/S0VCrBGxopMkgTaid0Mg1P/Untitled?node-id=1-160&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A450&hide-ui=1&t=Adonb99VKblKt5IU-8)
 
 ## Funcionalidades
 
@@ -15,4 +20,11 @@ Fluxos
 
 ## Diagrama de Casos de Uso
 ![Casos de Uso](https://github.com/yonnnah/Projeto-Integrador/blob/main/Diagrama%20de%20Casos%20De%20uso.jpg)
+
+## Modelo Lógico
+![Modelo Lógico](https://github.com/yonnnah/Projeto-Integrador/blob/main/Modelo%20L%C3%B3gico.jpg)
+
+## Prototipação de Alta Fidelidade
+### (Home Inicial)
+![Protótipo Alta Qualidade](https://github.com/yonnnah/Projeto-Integrador/blob/main/Prototipa%C3%A7%C3%A3o%20de%20Alta%20Fidelidade.jpg)
 
