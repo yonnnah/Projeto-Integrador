@@ -26,5 +26,15 @@ Fluxos
 
 ## Prototipação de Alta Fidelidade
 ### (Home Inicial)
-![Protótipo Alta Qualidade](https://github.com/yonnnah/Projeto-Integrador/blob/main/Prototipa%C3%A7%C3%A3o%20de%20Alta%20Fidelidade.jpg)
+![Home Inicial](https://github.com/yonnnah/Projeto-Integrador/blob/main/Prototipa%C3%A7%C3%A3o%20de%20Alta%20Fidelidade.jpg)
+
+### (Matrícula Aluno)
+![Matrícula Aluno](https://github.com/yonnnah/Projeto-Integrador/blob/main/EscolhaSeuCurso.jpg)
+
+### (Cadastro Professor)
+![Cadastro Professor](https://github.com/yonnnah/Projeto-Integrador/blob/main/CadastrodeProfessor.jpg)
+
+### (Login Funcionário)
+![Login Funcionário](https://github.com/yonnnah/Projeto-Integrador/blob/main/LoginFluxoFuncion%C3%A1rios.jpg)
+
 
