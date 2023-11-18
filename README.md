@@ -37,12 +37,12 @@ Fluxos
 ### (Login Funcionário)
 ![Login Funcionário](https://github.com/yonnnah/Projeto-Integrador/blob/main/LoginFluxoFuncion%C3%A1rios.jpg)
 
-### (Login Administrador / Cadasto de Fornecedor)
+### (Login Administrador / Cadastro de Fornecedor)
+![Login Administrador / Cadastro de Fornecedor](https://github.com/yonnnah/Projeto-Integrador/blob/main/FluxoADMCadastrarFornecedor.jpg)
+
+![Login Administrador / Cadastro de Fornecedor](https://github.com/yonnnah/Projeto-Integrador/blob/main/FluxoADMCadastrarFornecedorDados.jpg)
+
+### (Login Administrador ²  / Cadastro de Empresas)
 ![Login Administrador / Cadasto de Fornecedor](https://github.com/yonnnah/Projeto-Integrador/blob/main/FluxoADMCadastrarFornecedor.jpg)
 
-![Login Administrador / Cadasto de Fornecedor](https://github.com/yonnnah/Projeto-Integrador/blob/main/FluxoADMCadastrarFornecedorDados.jpg)
-
-### (Login Administrador ²  / Cadasto de Empresas)
-![Login Administrador / Cadasto de Fornecedor](https://github.com/yonnnah/Projeto-Integrador/blob/main/FluxoADMCadastrarFornecedor.jpg)
-
-![Login Administrador2 / Cadasto de Empresas](https://github.com/yonnnah/Projeto-Integrador/blob/main/FluxoADMCadastrarEmpresasDados.jpg)
+![Login Administrador2 / Cadastro de Empresas](https://github.com/yonnnah/Projeto-Integrador/blob/main/FluxoADMCadastrarEmpresasDados.jpg)
