@@ -1,5 +1,7 @@
 # Projeto Integrador Gestão de dados Centro Universitário
 
+### [View do Protótipo do Projeto com Fluxos Alternativos](https://www.figma.com/file/S0VCrBGxopMkgTaid0Mg1P/Untitled?type=design&node-id=0%3A1&mode=design&t=pS3ZIQym9oFMm2PH-1)
+
 Fluxos
 
 [Fluxo Aluno / Fluxo Professor](https://www.figma.com/proto/S0VCrBGxopMkgTaid0Mg1P/Untitled?type=design&node-id=1-450&t=BvryePZ4eaEDBPiy-8&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A450&hide-ui=1)
