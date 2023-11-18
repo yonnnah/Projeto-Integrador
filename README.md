@@ -46,3 +46,6 @@ Fluxos
 ![Login Administrador / Cadasto de Fornecedor](https://github.com/yonnnah/Projeto-Integrador/blob/main/FluxoADMCadastrarFornecedor.jpg)
 
 ![Login Administrador2 / Cadastro de Empresas](https://github.com/yonnnah/Projeto-Integrador/blob/main/FluxoADMCadastrarEmpresasDados.jpg)
+
+
+[Projeto Integrador Desenvolvimento de Sistemas Orientado a Objetos - Grupo 02]
